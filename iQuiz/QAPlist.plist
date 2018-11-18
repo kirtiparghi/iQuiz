@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>answer</key>
+		<string>AFNetwork.framework</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>CFNetwork.framework</string>
+			<key>C</key>
+			<string>AFNetwork.framework</string>
+			<key>B</key>
+			<string>Audiotoolbox.framework</string>
+			<key>A</key>
+			<string>AVFoundation.framework</string>
+		</dict>
+		<key>question</key>
+		<string>Which of the following iOS frameworks is a commonly used third party Library?</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>YES</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Supports partially</string>
+			<key>C</key>
+			<string>It supports flash applications from apple only.</string>
+			<key>B</key>
+			<string>NO</string>
+			<key>A</key>
+			<string>YES</string>
+		</dict>
+		<key>question</key>
+		<string>Flash Applications is  supported in iPhone browsers.Is it true?</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Background state</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Suspended state</string>
+			<key>C</key>
+			<string>Background state</string>
+			<key>B</key>
+			<string>Inactive state</string>
+			<key>A</key>
+			<string>Not running state</string>
+		</dict>
+		<key>question</key>
+		<string>Application in background &amp; executing background tasks.Determine current state of Application.</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>iOS 3.0</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>iOS 6.0</string>
+			<key>C</key>
+			<string>iOS 4.0</string>
+			<key>B</key>
+			<string>iOS 3.0</string>
+			<key>A</key>
+			<string>iOS 2.0</string>
+		</dict>
+		<key>question</key>
+		<string>iOS remote push notification is introduced by apple in which version?</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>atomic</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>None of them</string>
+			<key>C</key>
+			<string>atomic</string>
+			<key>B</key>
+			<string>non-atomic</string>
+			<key>A</key>
+			<string>assign</string>
+		</dict>
+		<key>question</key>
+		<string>Which of the following is a default UI property?</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>iOS 4.0</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>iOS 7.0</string>
+			<key>C</key>
+			<string>iOS 6.0</string>
+			<key>B</key>
+			<string>iOS 4.0</string>
+			<key>A</key>
+			<string>iOS 2.0</string>
+		</dict>
+		<key>question</key>
+		<string>Multitasking in iOS was introduced in which version?</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Inactive state</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Suspended state</string>
+			<key>C</key>
+			<string>Active state</string>
+			<key>B</key>
+			<string>Background state</string>
+			<key>A</key>
+			<string>Inactive state</string>
+		</dict>
+		<key>question</key>
+		<string>Application is running in foreground and receiving events.What is the current App State?</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Internetworking operating system</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>None of above</string>
+			<key>C</key>
+			<string>Internetworking operating system</string>
+			<key>B</key>
+			<string>Intergrated open system</string>
+			<key>A</key>
+			<string>Integrated operating system</string>
+		</dict>
+		<key>question</key>
+		<string>Meaning of IOS is</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>1984</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>1987</string>
+			<key>C</key>
+			<string>1986</string>
+			<key>B</key>
+			<string>1985</string>
+			<key>A</key>
+			<string>1984</string>
+		</dict>
+		<key>question</key>
+		<string>First IOS was written in</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Command link interface</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>None of above</string>
+			<key>C</key>
+			<string>Command link interface</string>
+			<key>B</key>
+			<string>Common line interface</string>
+			<key>A</key>
+			<string>Caller line interface</string>
+		</dict>
+		<key>question</key>
+		<string>CLI in IOS terminology is short form of</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Setup mode</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Setup mode</string>
+			<key>C</key>
+			<string>Global configuration mode</string>
+			<key>B</key>
+			<string>Privileged mode</string>
+			<key>A</key>
+			<string>User EXEC mode</string>
+		</dict>
+		<key>question</key>
+		<string>Which mode provides interactive configuration dialog</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Setup mode</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Setup mode</string>
+			<key>C</key>
+			<string>Specific configuration mode</string>
+			<key>B</key>
+			<string>Privileged EXEC mode</string>
+			<key>A</key>
+			<string>User EXEC mode</string>
+		</dict>
+		<key>question</key>
+		<string>Which user mode has limited monitoring commands in IOS</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Setup mode</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Setup mode</string>
+			<key>C</key>
+			<string>Specific configuration mode</string>
+			<key>B</key>
+			<string>Privileged mode</string>
+			<key>A</key>
+			<string>User EXEC mode</string>
+		</dict>
+		<key>question</key>
+		<string>Which mode provide access to all router commands</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>Specific configuration mode</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>Setup mode</string>
+			<key>C</key>
+			<string>Specific configuration mode</string>
+			<key>B</key>
+			<string>Privileged mode</string>
+			<key>A</key>
+			<string>User EXEC mode</string>
+		</dict>
+		<key>question</key>
+		<string>Which mode commands affects interfaces/processes only</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>?</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>?</string>
+			<key>C</key>
+			<string>interface</string>
+			<key>B</key>
+			<string>enable</string>
+			<key>A</key>
+			<string>config</string>
+		</dict>
+		<key>question</key>
+		<string>Which command will show all commands available from that particular mode</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>show interfaces</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>show protocols</string>
+			<key>C</key>
+			<string>show interfaces</string>
+			<key>B</key>
+			<string>show startup-config</string>
+			<key>A</key>
+			<string>show running-config</string>
+		</dict>
+		<key>question</key>
+		<string>Command to find the broadcast address from router</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>show controllers s 0</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>show controllers s 0</string>
+			<key>C</key>
+			<string>show serial 0 controllers</string>
+			<key>B</key>
+			<string>sh int serial 0</string>
+			<key>A</key>
+			<string>sh int s0</string>
+		</dict>
+		<key>question</key>
+		<string>Command to show if DTE or DCE cable is plugged int o serial 0</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>5</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>6</string>
+			<key>C</key>
+			<string>5</string>
+			<key>B</key>
+			<string>4</string>
+			<key>A</key>
+			<string>3</string>
+		</dict>
+		<key>question</key>
+		<string>How many simultaneous sessions a Cisco router support by default</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>erase start</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>erase start</string>
+			<key>C</key>
+			<string>erase NVRAM</string>
+			<key>B</key>
+			<string>delete running-config</string>
+			<key>A</key>
+			<string>delete NVRAM</string>
+		</dict>
+		<key>question</key>
+		<string>Command to delete NVRAM on a router</string>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>5th June, 2017</string>
+		<key>options</key>
+		<dict>
+			<key>D</key>
+			<string>4th June, 2017</string>
+			<key>C</key>
+			<string>1st June, 2017</string>
+			<key>B</key>
+			<string>2nd June, 2017</string>
+			<key>A</key>
+			<string>5th June, 2017</string>
+		</dict>
+		<key>question</key>
+		<string>When swift 4.0 was introduced?</string>
+	</dict>
+</array>
+</plist>
